@@ -31,6 +31,11 @@ body {
   color: var(--text-color-secondary);
 }
 
+.container {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
 .flex {
   display: flex;
 }
