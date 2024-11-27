@@ -65,9 +65,5 @@ a {
 a:hover {
   color: var(--brand-color);
   text-decoration: underline;
-}
-
-li:hover,
-a:hover {
   cursor: pointer;
 }
