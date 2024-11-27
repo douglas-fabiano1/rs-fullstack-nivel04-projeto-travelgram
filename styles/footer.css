@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+
+  & span,
+  & a {
+    font: var(--p-sm);
+  }
+  & .links {
+    gap: 1rem;
+  }
+}

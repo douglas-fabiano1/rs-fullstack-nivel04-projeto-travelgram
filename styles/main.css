@@ -1,0 +1,13 @@
+main {
+  padding: 1.5rem 2rem 0;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 1.5rem;
+
+  & img {
+    max-width: 17.87rem;
+    object-fit: cover;
+  }
+}
