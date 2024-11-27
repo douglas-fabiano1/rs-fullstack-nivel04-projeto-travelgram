@@ -10,7 +10,8 @@ section {
 
     & img {
       width: 11rem;
-      object-fit: contain;
+      height: auto;
+      object-fit: cover;
       border-radius: 50%;
     }
 
